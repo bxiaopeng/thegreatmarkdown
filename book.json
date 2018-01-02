@@ -1,0 +1,56 @@
+{
+	"title": "了不起的 Markdown",
+	"description": "这是一本关于 Markdown 的参考手册",
+	"author": "毕小烦",
+  "language": "zh-hans",
+  "links": {
+        "sharing": {
+            "all": false,
+            "facebook": false,
+            "google": false,
+            "twitter": false,
+            "weibo": false
+        },
+        "sidebar": {
+        	"我的微博":"http://www.weibo.com",
+            "我的博客": "http://blog.csdn.net/wirelessqa"
+        }
+    },
+  "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+    	"theme-comscore",
+    	"tbfed-pagefooter",
+    	"-search",
+    	"search-pro",
+    	"anchor-navigation-ex",
+			"splitter",
+			"-sharing"
+    ],
+
+		"pluginsConfig": {
+				"anchor-navigation-ex": {
+           "associatedWithSummary":false,
+					 "mode": "float"
+        },
+	        "tbfed-pagefooter": {
+	            "copyright": "Copyright © 毕小烦 2018",
+	            "modify_label": "该文件修订于:",
+	            "modify_format": "YYYY-MM-DD HH:mm:ss"
+	        },
+	         "theme-default":{
+						  "showLevel": true
+					 }
+    	}
+}

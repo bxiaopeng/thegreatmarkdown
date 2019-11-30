@@ -1,65 +1,50 @@
 # 了不起的 Markdown
+> 作者：毕小烦    
 
-<!-- TOC -->
+购买链接：
+- [京东](https://item.jd.com/12669274.html?extension_id=eyJhZCI6IiIsImNoIjoiIiwic2hvcCI6IiIsInNrdSI6IiIsInRzIjoiIiwidW5pcWlkIjoie1wiY2xpY2tfaWRcIjpcImYyODE1MjZmLTNiZDMtNDMxYy04YmYyLTIzOGM1MDRmYWU0MVwiLFwicG9zX2lkXCI6XCIxNTBcIixcInNpZFwiOlwiN2ZiOGMyZTMtYTliYS00Y2RjLThiYjUtZjRhOGM1YTRhODQzXCIsXCJza3VfaWRcIjpcIjEyNjY5Mjc0XCJ9In0=&jd_pop=f281526f-3bd3-431c-8bf2-238c504fae41&abt=3)
+- [当当](http://product.dangdang.com/27912444.html)
+- [淘宝](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.357e48e3fBGTdI&id=600157475560&ns=1&abbucket=6)
 
-- [了不起的 Markdown](#了不起的-markdown)
-    - [人人都应学习 Markdown](#人人都应学习-markdown)
-    - [人人都能学会 Markdown](#人人都能学会-markdown)
-        - [基础语法](#基础语法)
-        - [扩展语法 GFM](#扩展语法-gfm)
-        - [排版技巧](#排版技巧)
-            - [推荐的排版样式](#推荐的排版样式)
-            - [排版样式对比](#排版样式对比)
-    - [FAQ](#faq)
+此项目为本书的修订版，会持续不定期更新，欢迎读者朋友多提建议。
 
-<!-- /TOC -->
-## 人人都应学习 Markdown
+> 第一部分：语法
 
-## 人人都能学会 Markdown
+- [Markdown 简介](#)
+- [Markdown 语法]()
+  - [基础语法]()
+  - [扩展语法：GFM]()
+  - [扩展语法：R Markdown (0%)]()
+- [排版技巧和案例]()
+  - [排版技巧]()
+  - [实用案例]()
+    - [README (0%)]()
+    - [简历 (0%)]()
 
-### 基础语法
+> 第二部分：编辑器和工具
 
-### 扩展语法 GFM
+- [Typora - 极致优雅的编辑器]()
+- [Mark Text]()
+- [VS Code - 宇宙第一编辑器]()
+- [Vim - 极客必备]()
+- [Pandoc - 文档转换领域的瑞士军刀]()
 
-### 排版技巧
+> 第三部分：使用场景
 
-#### 推荐的排版样式
+- [写邮件]()
+- [写电子书]()
+  - [Gitbook]()
+- [写幻灯片]()
+- [写微信公众号]()
+- [写笔记]()
+- [写清单]()
+- [写日记]()
+- [写博客]()
+- [写项目文档]()
+- [科学计算]()
+  - [Jupyter]()
+  - [R Studio]()
 
-#### 排版样式对比
+> 第四部分：FAQ
 
-无套路的排版：
-
-> # 如何开启或关闭mac
->
-> 可通过按下电源按钮来开启mac.某些 mac 笔记本电脑也会在打开上盖或连接电源时开机.要关闭mac,请从苹果菜单中选择“关机”.
->
-> ## 开启mac(开机)
->
-> 按下电源按钮,该按钮通常带有 ![通用电源符号](imgs/power_symbol-icon.png) 标记.
->
-> - macbook pro(15 英寸,2016 年末)和macbook pro(13英寸,2016年末,四个thunderbolt3端口)电源按钮位于 multi-touch bar旁边，并集成touch id传感器。按下touch id（电源按钮）来开启mac。
-> - 其他mac笔记本电脑:电源按钮是键盘顶部角落处的一个按键，或是位于键盘旁边的圆形按钮。
-> - mac台式电脑:电源按钮是电脑背面上的一个圆形按钮。
->
-> macbook pro(15英寸,2016年末)、macbook pro(13英寸,2016年末,四个thunderbolt3 端口)和 macbook pro（13英寸,2016年末,两个thunderbolt3端口）也会在打开上盖或连接到电源时开机（只要电池尚有余电）。
-
-有套路的排版：
-
-> # 如何开启或关闭 Mac
->
-> 可通过按下电源按钮来开启 Mac。某些 Mac 笔记本电脑也会在打开上盖或连接电源时开机。要关闭 Mac，请从苹果菜单中选择“关机”。
->
-> ## 开启 Mac（开机）
->
-> 按下电源按钮，该按钮通常带有 ![通用电源符号](imgs/power_symbol-icon.png) 标记。
->
-> - MacBook Pro（15 英寸，2016 年末）和 MacBook Pro（13 英寸，2016 年末，四个 Thunderbolt 3 端口）：电源按钮位于 Multi-Touch Bar 旁边，并集成 Touch ID 传感器。按下 Touch ID（电源按钮）来开启 Mac。
-> - 其他 Mac 笔记本电脑：电源按钮是键盘顶部角落处的一个按键，或是位于键盘旁边的圆形按钮。
-> - Mac 台式电脑：电源按钮是电脑背面上的一个圆形按钮。
->
-> MacBook Pro（15 英寸，2016 年末）、MacBook Pro（13 英寸，2016 年末，四个 Thunderbolt 3 端口）和 MacBook Pro（13 英寸，2016 年末，两个 Thunderbolt 3 端口）也会在打开上盖或连接到电源时开机（只要电池尚有余电）。
-
-
-## FAQ
-
-如何自动生成 GFM 的目录？
+- [如何自动生成适用于 GitHub 的锚点目录]()

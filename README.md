@@ -56,4 +56,4 @@
 
 Version 1.1（unrelease）
 
-- 添加：锚点名中如果空格可使用 `-` 替换；
+- 添加：锚点名中如果空格可使用 `-` 替换；感谢 [WarsFeng](https://github.com/bxiaopeng/thegreatmarkdown/issues/2) 的建议。

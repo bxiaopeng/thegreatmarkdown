@@ -1,7 +1,9 @@
 # 了不起的 Markdown
-> 作者：毕小烦    
+
+> 作者：毕小烦
 
 购买链接：
+
 - [京东](https://item.jd.com/12669274.html?extension_id=eyJhZCI6IiIsImNoIjoiIiwic2hvcCI6IiIsInNrdSI6IiIsInRzIjoiIiwidW5pcWlkIjoie1wiY2xpY2tfaWRcIjpcImYyODE1MjZmLTNiZDMtNDMxYy04YmYyLTIzOGM1MDRmYWU0MVwiLFwicG9zX2lkXCI6XCIxNTBcIixcInNpZFwiOlwiN2ZiOGMyZTMtYTliYS00Y2RjLThiYjUtZjRhOGM1YTRhODQzXCIsXCJza3VfaWRcIjpcIjEyNjY5Mjc0XCJ9In0=&jd_pop=f281526f-3bd3-431c-8bf2-238c504fae41&abt=3)
 - [当当](http://product.dangdang.com/27912444.html)
 - [淘宝](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.357e48e3fBGTdI&id=600157475560&ns=1&abbucket=6)
@@ -13,7 +15,8 @@
 - [Markdown 简介](#)
 - [Markdown 语法]()
   - [基础语法]()
-  - [扩展语法：GFM]()
+  - [扩展语法：GFM](docs/01/gfm/gfm.md)
+    - [锚点](docs/01/gfm/gfm.md#锚点) ✔︎
   - [扩展语法：R Markdown (0%)]()
 - [排版技巧和案例]()
   - [排版技巧]()
@@ -48,3 +51,9 @@
 > 第四部分：FAQ
 
 - [如何自动生成适用于 GitHub 的锚点目录]()
+
+## 修订记录
+
+Version 1.1（unrelease）
+
+- 添加：锚点名中如果空格可使用 `-` 替换；

@@ -19,7 +19,7 @@
     - [锚点](docs/01/gfm/gfm.md#锚点) ✔︎
   - [扩展语法：R Markdown (0%)]()
 - [排版技巧和案例]()
-  - [排版技巧]()
+  - [排版技巧](docs/01/typesetting/typesetting.md#排版技巧)
   - [实用案例]()
     - [README (0%)]()
     - [简历 (0%)]()

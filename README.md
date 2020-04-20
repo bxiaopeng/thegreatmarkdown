@@ -91,5 +91,6 @@ Version 1.1（unrelease）
 [windows]: icons/windows.svg 'windows'
 [linux]: icons/linux.svg 'linux'
 [ios]: icons/ios.svg 'ios'
-[android]: icons/android.png 'android'
+[android]: https://img-blog.csdnimg.cn/20200421000225473.png 'android'
 [web]: icons/chrome.svg 'web'
+

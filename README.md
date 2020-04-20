@@ -14,13 +14,13 @@
 
 **说明**
 
-![Github][github] 表示 **开源软件** ，点击可进入开源仓库；
-![macOS][macos] 表示可以在 **macOS** 上运行;
-![Windows][windows] 表示可以在 **Windows** 上运行;
-![Linux][linux] 表示可以在 **Linux** 上运行;
-![Android][android] 表示可以在 **Android** 上运行;
-![iOS][ios] 表示可以在 **iOS** 上运行;
-![Web][web] 表示可以在 **网页/浏览器** 上运行;
+![Github][github] 表示 **开源软件** ，点击可进入开源仓库；<br/>
+![macOS][macos] 表示可以在 **macOS** 上运行;<br/>
+![Windows][windows] 表示可以在 **Windows** 上运行;<br/>
+![Linux][linux] 表示可以在 **Linux** 上运行;<br/>
+![Android][android] 表示可以在 **Android** 上运行;<br/>
+![iOS][ios] 表示可以在 **iOS** 上运行;<br/>
+![Web][web] 表示可以在 **网页/浏览器** 上运行;<br/>
 
 
 # 第一部分：语法和规范
@@ -84,10 +84,10 @@ Version 1.1（unrelease）
 
 <!--图标-->
 
-[github]: ./icons/github.svg 'github'
-[macos]: ./icons/macos.svg 'macos'
-[windows]: ./icons/windows.svg 'windows'
-[linux]: ./icons/linux.svg 'linux'
-[ios]: ./icons/ios.svg 'ios'
-[android]: ./icons/android.svg 'android'
-[web]: ./icons/chrome.svg 'web'
+[github]: icons/github.svg 'github'
+[macos]: icons/macos.svg 'macos'
+[windows]: icons/windows.svg 'windows'
+[linux]: icons/linux.svg 'linux'
+[ios]: icons/ios.svg 'ios'
+[android]: icons/android.svg 'android'
+[web]: icons/chrome.svg 'web'

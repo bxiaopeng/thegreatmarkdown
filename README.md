@@ -86,11 +86,11 @@ Version 1.1（unrelease）
 
 <!--图标-->
 
-[github]: icons/github.svg 'github'
-[macos]: icons/macos.svg 'macos'
-[windows]: icons/windows.svg 'windows'
-[linux]: icons/linux.svg 'linux'
-[ios]: icons/ios.svg 'ios'
+[github]: https://img-blog.csdnimg.cn/20200421001405490.png 'github'
+[macos]: https://img-blog.csdnimg.cn/2020042100091755.png 'macos'
+[windows]: https://img-blog.csdnimg.cn/20200421000940624.png 'windows'
+[linux]: https://img-blog.csdnimg.cn/20200421000737513.png 'linux'
+[ios]: https://img-blog.csdnimg.cn/20200421000902497.png 'ios'
 [android]: https://img-blog.csdnimg.cn/20200421000225473.png 'android'
-[web]: icons/chrome.svg 'web'
+[web]: https://img-blog.csdnimg.cn/20200421000816580.png 'web'
 

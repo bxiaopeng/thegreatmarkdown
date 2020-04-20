@@ -90,7 +90,7 @@ Version 1.1（unrelease）
 [macos]: https://img-blog.csdnimg.cn/2020042100091755.png 'macos'
 [windows]: https://img-blog.csdnimg.cn/20200421000940624.png 'windows'
 [linux]: https://img-blog.csdnimg.cn/20200421000737513.png 'linux'
-[ios]: https://img-blog.csdnimg.cn/20200421000902497.png 'ios'
+[ios]: https://img-blog.csdnimg.cn/20200421001911211.png 'ios'
 [android]: https://img-blog.csdnimg.cn/20200421000225473.png 'android'
 [web]: https://img-blog.csdnimg.cn/20200421000816580.png 'web'
 

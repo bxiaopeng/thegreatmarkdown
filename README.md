@@ -1,4 +1,4 @@
-# 了不起的 Markdown
+# 《了不起的 Markdown》
 
 ![](https://img-blog.csdnimg.cn/20190802084731504.png)
 
@@ -70,7 +70,10 @@
 - 个人品牌
   - [写电子书]()
     - [Gitbook]()
+    - mdBook - 用 Markdown 写书，类似 GitBook，但用 Rust 实现的。[![GitHub]](https://github.com/rust-lang/mdBook)
   - [写微信公众号]()
+    - mdnice - [这可能是用 Markdown 写微信公众号的终极解决方案](](https://blog.csdn.net/wirelessqa/article/details/105876032)) [![GitHub]](https://github.com/mdnice/markdown-nice) ![Web]
+    - md - 一款高度简洁的微信 Markdown 编辑器 [![GitHub]](https://github.com/doocs/md) ![Web]
   - [写博客]()
 
 

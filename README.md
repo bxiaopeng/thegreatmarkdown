@@ -12,13 +12,13 @@
 
 **说明**
 
-![Github][github] 表示 **开源软件** ，点击可进入开源仓库；<br/>
-![macOS][macos] 表示可以在 **macOS** 上运行;<br/>
-![Windows][windows] 表示可以在 **Windows** 上运行;<br/>
-![Linux][linux] 表示可以在 **Linux** 上运行;<br/>
-![Android][android] 表示可以在 **Android** 上运行;<br/>
-![iOS][ios] 表示可以在 **iOS** 上运行;<br/>
-![Web][web] 表示可以在 **网页/浏览器** 上运行;<br/>
+- ![Github][github] 表示 **开源软件** ，点击可进入开源仓库；<br/>
+- ![macOS][macos] 表示可以在 **macOS** 上运行;<br/>
+- ![Windows][windows] 表示可以在 **Windows** 上运行;<br/>
+- ![Linux][linux] 表示可以在 **Linux** 上运行;<br/>
+- ![Android][android] 表示可以在 **Android** 上运行;<br/>
+- ![iOS][ios] 表示可以在 **iOS** 上运行;<br/>
+- ![Web][web] 表示可以在 **网页/浏览器** 上运行;<br/>
 
 
 第一部分：语法和规范

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"
+    />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        name: '',
+        repo: '',
+        loadSidebar: true, // 侧边栏
+        subMaxLevel: 2, // 显示目录
+        coverpage: true, // 封面
+        onlyCover: false,
+        loadNavbar: true, // 导航栏
+        // search: 'auto', // 搜索
+
+        search: {
+          maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+          placeholder: '搜索',
+          noData: '找不到结果!',
+          // 搜索标题的最大层级, 1 - 6
+          depth: 3,
+          hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+        },
+        count: {
+          countable: true,
+          fontsize: '0.9em',
+          color: 'rgb(90,90,90)',
+          language: 'chinese',
+        },
+        pagination: {
+          previousText: '上一章',
+          nextText: '下一章',
+          crossChapter: true,
+          crossChapterText: true,
+        },
+      }
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css"> -->
+  </body>
+</html>

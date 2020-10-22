@@ -2,10 +2,6 @@
 
 > 低门槛、高效率、高颜值的静态网站生成器
 
-
-
-
-
 **基本信息**
 
 | 工具名称 | docsify                              |
@@ -18,7 +14,7 @@
 
 
 
-# 准备环境
+## 准备环境
 
 安装 docsify 命令行工具：
 
@@ -26,7 +22,7 @@
 npm i docsify-cli -g
 ```
 
-# 快速入门
+## 快速入门
 
 STEP 1. 初始化文件夹，如：docsify-guide
 
@@ -71,5 +67,67 @@ $ docsify serve .
 ![image-20200930153104881](imgs/image-20200930153104881.png)
 
 
+
+## 部署
+
+### 本地部署
+
+#### 1. 在 macOS 中部署
+
+STEP 1. 打开 nginx.conf
+
+如：
+
+```shell
+$ vim /usr/local/etc/nginx/nginx.conf
+```
+
+STEP 2. 添加服务信息
+
+如：
+
+```json
+   # docsify 服务配置
+   server {
+
+    listen             1000;             # 端口号
+    server_name        localhost;        # 域名信息
+   
+    root /Volumes/warehouse/100学习/;     # docsify 项目的根目录
+   
+    index index.html;                    # index.html
+    }
+```
+
+STEP 3. 启动/重启 nginx
+
+如：
+
+```shell
+# 启动
+$ nginx
+
+# 或重启
+$ nginx -s quit
+$ nginx
+```
+
+STEP 4. 打开
+
+如：
+
+```
+http://localhost:1000/
+```
+
+ 
+
+
+
+
+
+
+
+# 参考资料
 
 # 修订历史

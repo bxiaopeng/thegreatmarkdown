@@ -10,7 +10,7 @@
 
 > 此项目为本书的修订版，会持续不定期更新，欢迎读者朋友多提建议。
 
-在线预览：https://bxiaopeng.github.com/thegreatmarkdown
+在线预览：敬请期待
 
 
 更多请关注我的 微信公众号：毕小烦

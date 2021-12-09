@@ -13,24 +13,7 @@
 在线预览：https://bxiaopeng.github.com/thegreatmarkdown
 
 
-<!-- **说明**
+更多请关注我的 微信公众号：毕小烦
 
-- ![Github][github] 表示 **开源软件** ，点击可进入开源仓库；<br/>
-- ![macOS][macos] 表示可以在 **macOS** 上运行;<br/>
-- ![Windows][windows] 表示可以在 **Windows** 上运行;<br/>
-- ![Linux][linux] 表示可以在 **Linux** 上运行;<br/>
-- ![Android][android] 表示可以在 **Android** 上运行;<br/>
-- ![iOS][ios] 表示可以在 **iOS** 上运行;<br/>
-- ![Web][web] 表示可以在 **网页/浏览器** 上运行;<br/>
- -->
 
-<!--图标-->
-
-[github]: https://img-blog.csdnimg.cn/20200421001405490.png 'github'
-[macos]: https://img-blog.csdnimg.cn/2020042100091755.png 'macos'
-[windows]: https://img-blog.csdnimg.cn/20200421000940624.png 'windows'
-[linux]: https://img-blog.csdnimg.cn/20200421000737513.png 'linux'
-[ios]: https://img-blog.csdnimg.cn/20200421001911211.png 'ios'
-[android]: https://img-blog.csdnimg.cn/20200421000225473.png 'android'
-[web]: https://img-blog.csdnimg.cn/20200421000816580.png 'web'
-
+![](https://github.com/bxiaopeng/SoftwareTestingWeekly/blob/main/imgs/gongzhonghao.jpg)
